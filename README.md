@@ -35,7 +35,7 @@
 -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojtummala&layout=compact&hide=html" alt="manojtummala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojtummala&show_icons=true" alt="manojtummala" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manojtummala&show_icons=true" alt="manojtummala" /></p>
 
 <p align="center"> 
 <a href="https://linkedin.com/in/tummala-manoj-5256441b9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tummala-manoj-5256441b9" height="30" width="30" /></a>
