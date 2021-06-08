@@ -1,5 +1,5 @@
 <h1 align="center">Manoj Here...👋</h1>
-<h3 align="center">An enthusiastic learner and a coder for fun from India</h3>
+<h3 align="center">An enthusiastic learner and a coder for fun and a sophomore student from Sathyabama Institute of Science and Technology</h3>
 <h3 align="center">In search of intresting topic... ps: ping me if you know one</h3>
 
 <!-- <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
@@ -27,6 +27,8 @@
 - 💬 Ask me about ... **Python, JS, TypeScript, intresting algorithms, data structures**
 
 - 📫 How to reach me: ...**tummalamanoj2002@gmail.com**
+
+- ***You can also visit my*** **[Portfolio](https://manojtummala.github.io/)**
 <!--
 - 🤔 I’m looking for help with ...
 
