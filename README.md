@@ -1,6 +1,7 @@
 <h1 align="center">Manoj Here...👋</h1>
-<h3 align="center">An enthusiastic learner and a coder for fun and a sophomore student from Sathyabama Institute of Science and Technology</h3>
-<h3 align="center">In search of intresting topic... ps: ping me if you know one</h3>
+<h3 align="center">An enthusiastic learner and a coder for fun and a senior student from Sathyabama Institute of Science and Technology</h3>
+<h3 align="center">In search of intresting topic... </h3>
+<h4 align="center">ps: ping me if you know one</h4>
 
 <!-- <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
