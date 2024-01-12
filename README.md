@@ -21,13 +21,13 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manojtummala" alt="manojtummala" /> </p>
 
-- 🔭 I’m currently working on ...**Python, JavaScript, Web development backend**
+- 🔭 I’m currently working on **Full Stack, MERN stack developement and also Multimedia**
 
-- 🌱 I’m currently learning ...**node js, data handelling**
+- 🌱 I’m currently learning **multimedia and computer vision**
 
-- 💬 Ask me about ... **Python, JS, TypeScript, intresting algorithms, data structures**
+- 💬 Ask me about **Python, JS, TypeScript, intresting algorithms, data structures**
 
-- 📫 How to reach me: ...**tummalamanoj2002@gmail.com**
+- 📫 How to reach me: **manojtum@usc.edu**
 
 - ***You can also visit my*** **[Portfolio](https://manojtummala.github.io/)**
 <!--
@@ -36,9 +36,11 @@
 - ⚡ Fun fact: ...
 
 -->
+<!--
 <a href="https://github.com/manojtummala/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojtummala&show_icons=true&include_all_commits=true&theme=radical" alt="Manoj's github stats" />
 </a>
+-->
 <a href="https://github.com/manojtummala/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojtummala&layout=compact&theme=radical" />
 </a>
